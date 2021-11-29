@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">City University Login Portal</string>
+    <string name="about_me">I am a student of City university in the CSE department at batch 46. I converted our university login portal into android app using web view. So anybody faced any problem or any feedback. Contact with me: fahimadnan5@gmail.com </string>
+
+
+
+
+    <string name="Bangladesh_button">Bangladesh</string>
+    <string name="Pakistan_button">Pakistan</string>
+    <string name="India_button">India</string>
+    <string name="Dialog">Do you want to exit?</string>
+    <string name="Title">Alert Message</string>
+
+
+</resources>
